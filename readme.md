@@ -1,11 +1,11 @@
-## Welcome TenantCare
+## Welcome Odisha-Police-Tenant-Management
 
-![TenantCare](/src/assets/images/cover.jpg)
+![Odisha-Police-Tenant-Management](/src/assets/images/cover.jpg)
 
-### TenantCare - Property Management Tool
-Introducing TenantCare, a powerful and intuitive property management and tenant verification solution, purpose-built for the Odisha Police. Designed with precision and care by Tanmay Mishra and Shubhankar Mishra, TenantCare is tailored to streamline the cross-verification of tenants, enhancing safety, transparency, and accountability for both property owners and law enforcement.
+### Odisha-Police-Tenant-Management - Property Management Tool
+Introducing Odisha-Police-Tenant-Management, a powerful and intuitive property management and tenant verification solution, purpose-built for the Odisha Police. Designed with precision and care by Tanmay Mishra and Shubhankar Mishra, TenantCare is tailored to streamline the cross-verification of tenants, enhancing safety, transparency, and accountability for both property owners and law enforcement.
 
-With TenantCare, police departments and property managers can efficiently:
+With Odisha-Police-Tenant-Management, police departments and property managers can efficiently:
 
 Maintain digital records of tenant information and identification documents.
 
